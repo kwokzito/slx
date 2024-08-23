@@ -4,7 +4,7 @@ import SingleUpload from "@/components/Upload/SingleUpload.vue";
 import MultiUpload from "@/components/Upload/MultiUpload.vue";
 
 const singlePicUrl = ref(
-  "https://oss.youlai.tech/youlai-boot/2023/05/20/2b6d8b49fa1047348a0a41cef5aaf69e.gif"
+  "https://i.111932.xyz/i/2024/quz5ja.gif"
 );
 // 这里放外链图片，防止被删
 const multiPicUrls = ref([
